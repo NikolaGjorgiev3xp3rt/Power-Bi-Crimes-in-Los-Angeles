@@ -1,11 +1,11 @@
 
-# Crime in Los Angeles – Data Analysis & Visualization 🚔📊
+# Crime in Los Angeles – Data Analysis & Visualization 
 
 This project analyzes **crime data in Los Angeles** using **Power BI** to uncover trends, patterns, and insights related to public safety. The goal is to present complex crime statistics in a clear, interactive, and data-driven way.
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Analyze crime trends over time in Los Angeles
 - Identify the most common crime types
@@ -15,7 +15,7 @@ This project analyzes **crime data in Los Angeles** using **Power BI** to uncove
 
 ---
 
-## 🗂 Dataset Overview
+## Dataset Overview
 
 The dataset includes crime-related information such as:
 - Crime type and category
@@ -26,7 +26,7 @@ The dataset includes crime-related information such as:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 - **Power BI** – Data modeling, DAX, and visualization
 - **Data Cleaning & Transformation** – Power Query
@@ -34,20 +34,20 @@ The dataset includes crime-related information such as:
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 The Power BI report includes:
-- 📈 Crime trends over time
-- 🏙 Crime distribution by area
-- 🔍 Breakdown of crimes by type
-- 🎯 KPI cards for total crimes and key statistics
-- 🎛 Interactive slicers (year, area, crime type)
+-Crime trends over time
+-Crime distribution by area
+-Breakdown of crimes by type
+-KPI cards for total crimes and key statistics
+-Interactive slicers (year, area, crime type)
 
 > File: `Crime in Los Angeles.pbix`
 
 ---
 
-## 🔎 Key Insights
+## Key Insights
 
 - Certain crime types occur significantly more frequently than others
 - Crime levels vary greatly across different areas of Los Angeles
@@ -56,13 +56,13 @@ The Power BI report includes:
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates how **data visualization and analytics** can help better understand crime patterns and support data-driven insights. Power BI enables efficient exploration of large datasets and effective communication of findings.
 
 ---
 
-## 👤 Author
+## Author
 
 **Nikola Gjorgiev**  
 Aspiring Data Analyst / Data Scientist
